@@ -93,16 +93,16 @@ Download the specific Mandala you are studying:
 
 | Mandala | Size | Download Link |
 |---------|------|---------------|
-| **Mandala 1** | ~XX MB | [Download M1](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M1_R2_V1.zip) |
-| **Mandala 2** | ~XX MB | [Download M2](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M2_R2_V1.zip) |
-| **Mandala 3** | ~XX MB | [Download M3](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M3_R2_V1.zip) |
-| **Mandala 4** | ~XX MB | [Download M4](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M4_R2_V1.zip) |
-| **Mandala 5** | ~XX MB | [Download M5](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M5_R2_V1.zip) |
-| **Mandala 6** | ~XX MB | [Download M6](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M6_R2_V1.zip) |
-| **Mandala 7** | ~XX MB | [Download M7](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M7_R2_V1.zip) |
-| **Mandala 8** | ~XX MB | [Download M8](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M8_R2_V1.zip) |
-| **Mandala 9** | ~XX MB | [Download M9](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M9_R2_V1.zip) |
-| **Mandala 10** | ~XX MB | [Download M10](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M10_R2_V1.zip) |
+| **Mandala 1** | ~184 MB| [Download M1](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M1_R2_V1.zip) |
+| **Mandala 2** | ~41 MB | [Download M2](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M2_R2_V1.zip) |
+| **Mandala 3** | ~57 MB | [Download M3](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M3_R2_V1.zip) |
+| **Mandala 4** | ~55 MB | [Download M4](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M4_R2_V1.zip) |
+| **Mandala 5** | ~64 MB | [Download M5](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M5_R2_V1.zip) |
+| **Mandala 6** | ~69 MB | [Download M6](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M6_R2_V1.zip) |
+| **Mandala 7** | ~80 MB | [Download M7](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M7_R2_V1.zip) |
+| **Mandala 8** | ~131 MB| [Download M8](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M8_R2_V1.zip) |
+| **Mandala 9** | ~83 MB | [Download M9](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M9_R2_V1.zip) |
+| **Mandala 10**| ~170 MB| [Download M10](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M10_R2_V1.zip) |
 
 #### 📚 Additional Resources
 - **Pada Source**: [Download Pada_Source.zip](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases)
